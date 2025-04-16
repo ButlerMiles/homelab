@@ -1,0 +1,16 @@
+# IDE
+.idea
+.vs_code
+# Trash
+.DS_Store
+Thumbs.db
+# Brew
+Brewfile.lock.json
+# k8s
+kubeconfig
+talosconfig
+.decrypted~*.yaml
+.config.env
+*.agekey
+*.pub
+*.key
